@@ -1,8 +1,8 @@
-import yourmum
+import math
 
-main():
+def main():
 
-    print(yourmum.help)
+    print(math.random())
 
 if __name__ == "__main__":
     main()
